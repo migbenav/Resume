@@ -26,7 +26,7 @@ I enjoy turning data into actionable insights and leveraging technology to solve
 
 You can find my resume in the following format:  
 
-- [Download PDF Resume](./Miguel Benavides - Resume.pdf)  
+- [Download PDF Resume](https://github.com/migbenav/resume/blob/main/Miguel%20Benavides%20-%20Resume.pdf)  
 
 ---
 
@@ -43,7 +43,7 @@ You can find my resume in the following format:
 
 Here are a few projects that demonstrate my expertise and experience:  
 
-### 1. **[CMR Sales Opportunities]([https://github.com/migbenav/Global-Electronics-Retailer]**
+### 1. **[CMR Sales Opportunities](https://github.com/migbenav/Global-Electronics-Retailer)**
 - **Description**: [This project focuses on analyzing and visualizing sales opportunities from a CMR (Customer Management Relationship) system. The goal is to provide an in-depth look into the sales pipeline, identify potential bottlenecks, and explore factors contributing to successful opportunities.]
 - **Technologies**: [Phyton, Tableau, Excel.]
 
@@ -59,7 +59,7 @@ More projects, coming soon
 
 Feel free to reach out if you’d like to discuss opportunities, collaborations, or any questions you have:  
 
-- **LinkedIn**: [www.linkedin.com/in/miguel-angel-benavides] (https://www.linkedin.com/in/miguel-angel-benavides) 
+- **LinkedIn**: [www.linkedin.com/in/miguel-angel-benavides](https://www.linkedin.com/in/miguel-angel-benavides) 
 - **GitHub**: [https://github.com/migbenav](https://github.com/migbenav)
 
 ---
