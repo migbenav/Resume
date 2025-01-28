@@ -16,7 +16,7 @@ Feel free to download my resume or explore my GitHub projects linked throughout 
 
 ## About Me
 
-I am a **[Your Profession or Role]** with expertise in **[list key areas, e.g., data visualization, SQL, dashboard design]**. My experience includes working with sales teams to improve operations, build insights-driven solutions, and optimize business processes.  
+I am a **business data analyst** with expertise in **reporting, data cleaning, visualization, and analysis**. My experience includes working with sales teams to improve operations, build insights-driven solutions, and optimize business processes.  
 
 I enjoy turning data into actionable insights and leveraging technology to solve complex problems. I am also eager to collaborate with teams across the globe to create meaningful, data-driven outcomes.
 
@@ -24,10 +24,9 @@ I enjoy turning data into actionable insights and leveraging technology to solve
 
 ## Resume
 
-You can find my resume in the following formats:  
+You can find my resume in the following format:  
 
-- [View Online Resume (Markdown)](https://github.com/YourUsername/your-repo-name/blob/main/README.md)  
-- [Download PDF Resume](./resume.pdf)  
+- [Download PDF Resume](./Miguel Benavides - Resume.pdf)  
 
 ---
 
@@ -44,7 +43,7 @@ You can find my resume in the following formats:
 
 Here are a few projects that demonstrate my expertise and experience:  
 
-### 1. **[CMR Sales Opportunities]([https://github.com/migbenav/Global-Electronics-Retailer](https://github.com/migbenav/CMR-Sales-Opportunity)**
+### 1. **[CMR Sales Opportunities]([https://github.com/migbenav/Global-Electronics-Retailer]**
 - **Description**: [This project focuses on analyzing and visualizing sales opportunities from a CMR (Customer Management Relationship) system. The goal is to provide an in-depth look into the sales pipeline, identify potential bottlenecks, and explore factors contributing to successful opportunities.]
 - **Technologies**: [Phyton, Tableau, Excel.]
 
@@ -60,7 +59,7 @@ More projects, coming soon
 
 Feel free to reach out if you’d like to discuss opportunities, collaborations, or any questions you have:  
 
-- **LinkedIn**: [www.linkedin.com/in/miguel-angel-benavides] (www.linkedin.com/in/miguel-angel-benavides) 
-- **GitHub**: [https://github.com/YourUsername](https://github.com/migbenav)
+- **LinkedIn**: [www.linkedin.com/in/miguel-angel-benavides] (https://www.linkedin.com/in/miguel-angel-benavides) 
+- **GitHub**: [https://github.com/migbenav](https://github.com/migbenav)
 
 ---
