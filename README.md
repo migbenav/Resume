@@ -43,7 +43,7 @@ You can find my resume in the following format:
 
 Here are a few projects that demonstrate my expertise and experience:  
 
-### 1. **[CMR Sales Opportunities](https://github.com/migbenav/Global-Electronics-Retailer)**
+### 1. **[CMR Sales Opportunities](https://github.com/migbenav/CMR-Sales-Opportunity)**
 - **`Description`**: This project focuses on analyzing and visualizing sales opportunities from a CMR (Customer Management Relationship) system. The goal is to provide an in-depth look into the sales pipeline, identify potential bottlenecks, and explore factors contributing to successful opportunities.
 - **`Technologies`**: Phyton, Tableau, Excel.
 
