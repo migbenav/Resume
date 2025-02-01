@@ -49,7 +49,7 @@ Here are a few projects that demonstrate my expertise and experience:
 
 ### 2. **[Global Electronics Retailer](https://github.com/migbenav/Global-Electronics-Retailer)**
 - **`Description`**: This repository contains a series of analyses related to customer behavior, store performance, and product trends, using data from the company's sales transactions.
-- **`Technologies`**: Phyton, Tableau, Excel
+- **`Technologies`**: Phyton, Power BI, Excel
 
 Additional projects coming soon.
 
