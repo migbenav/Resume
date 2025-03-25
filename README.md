@@ -32,7 +32,7 @@ You can find my resume in the following format:
 
 ## Key Skills
 
-- **`Data Analysis & Visualization`**: Experienced in SQL, Excel, Tableau and other tools to build insightful dashboards and reports.  
+- **`Data Analysis & Visualization`**: Experienced in SQL, Excel, Power BI, Tableau and other tools to build insightful dashboards and reports.  
 - **`Database Management`**: Experienced in working with internal systems, large datasets, and relational databases.  
 - **`Cross-Functional Collaboration`**: Worked closely with sales teams, directors, and stakeholders to achieve business goals.  
 - **`Problem-Solving`**: Identified untapped opportunities in sales territories, improved forecasting accuracy, and optimized resource allocation.  
