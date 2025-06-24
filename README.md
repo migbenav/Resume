@@ -26,7 +26,7 @@ I enjoy turning data into actionable insights and leveraging technology to solve
 
 You can find my resume in the following format:  
 
-- [Download PDF Resume](https://github.com/migbenav/resume/blob/main/Miguel%20Benavides%20-%20Resume.pdf)  
+- [Download PDF Resume](https://github.com/migbenav/resume/blob/main/Miguel%20Benavides%20-%20Resume%202025.pdf)  
 
 ---
 
